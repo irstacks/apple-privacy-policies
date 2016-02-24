@@ -2,7 +2,7 @@
 Simply .html files via `Save As >`. 
 
 ### Scope
-Project includes a couple of sources for a few major languages. I found that the selected Region doesn't dictate the Privacy Policy url; that seems to be determined just by presumed language. 
+Project includes a couple of sources for a few major languages. I found that the selected Region doesn't dictate the Privacy Policy url; that seems to be determined just by the assumed primary language of a given country. 
 
 
 ### Contributing
