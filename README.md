@@ -7,5 +7,5 @@ Project includes a couple of sources for a few major languages. I found that the
 
 ### Contributing
 - A scraper would be great. 
-- If you'd like to add language, please do. I'll pretty much accept any reasonable pull request I get. 
+- If you'd like to add a language (or anything relevant), please do. I'll pretty much accept any reasonable pull request I get. 
 
